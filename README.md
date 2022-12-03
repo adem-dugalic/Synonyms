@@ -1,5 +1,5 @@
 # Synonyms
-This small ap allows you to input a word and a synonym for that word and also search synonyms with a specific word.
+This small app allows you to input a word and a synonym for that word and also search synonyms with a specific word.
 ## Available Scripts
 
 # NOTE:
