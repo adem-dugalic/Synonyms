@@ -2,9 +2,9 @@
 This small ap allows you to input a word and a synonym for that word and also search synonyms with a specific word.
 ## Available Scripts
 
-#NOTE:
-This repository has a submodule #fontend
-#Steps to clone:
+# NOTE:
+This repository has a submodule # fontend
+# Steps to clone:
 - clone ...
 - cd to the cloned repo
 - cd frontend
